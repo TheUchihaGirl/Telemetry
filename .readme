@@ -1,0 +1,4 @@
+#Setup DB
+Have a docker database setup in localhost. No need to change the port 1433
+No need to mention that in code
+Database name is grafana
